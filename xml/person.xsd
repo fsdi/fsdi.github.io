@@ -3,7 +3,7 @@
         xmlns="http://www.w3school.com.cn"
         xmlns:xsd="http://www.w3.org/2001/XMLSchema"
         xmlns:beans="http://www.springframework.org/schema/beans"
-        targetNamespace="http://www.w3school.com.cn"
+        targetNamespace="http://fsdi.github.io"
         elementFormDefault="qualified"
         attributeFormDefault="unqualified">
 
